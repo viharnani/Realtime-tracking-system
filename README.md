@@ -11,7 +11,11 @@ Highlights
 🔗 Connection Management: Establishing and managing socket connections.<br>
 ⚠️ Error Handling: Handling errors effectively when users disconnect.<br>
 📚 Importance of Documentation: Encourages checking official documentation for in-depth understanding.<br>
+<br>
+<br>
 Key Insights
+<br>
+
 📈 Skill Showcase: Complex projects like real-time tracking highlight valuable skills and are appealing to potential employers.<br>
 🌐 Technical Details: Leveraging tools like Socket.io and Leaflet simplifies real-time app development.<br>
 🧩 Project Organization: Proper file and folder management is essential in complex project structures.<br>
